@@ -4,4 +4,4 @@ import pandas as pd
 #print("What is Going on")
 a = [23,44,55,66,89,-2,-22,-55]
 #q = plt.show(a)
-st.write(a)
+st.line_chart(data=a)
